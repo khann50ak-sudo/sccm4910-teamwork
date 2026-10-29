@@ -1,4 +1,4 @@
-"""SCCM4910 Lab 4 - shared greetings file.
+x"""SCCM4910 Lab 4 - shared greetings file.
 
 Each student adds ONE greeting line below the marker, on their own branch,
 then opens a pull request against their own fork's main branch.
@@ -13,6 +13,8 @@ def banner():
 if __name__ == "__main__":
     banner()
     # --- ADD YOUR GREETING BELOW THIS LINE ---
+    # added the greeting
+    print("Hello from khann50ak-sudo!")
     print("Hello from tommydavies-byte")  #this is a greeting from me
                                           #this is a test comment
 
